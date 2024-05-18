@@ -106,7 +106,6 @@ padding: 0;
 
 }
 
-
 .titulo{
    background-image: url("img/img1.jpeg");
    background-size: cover;
@@ -152,4 +151,16 @@ padding: 0;
 
 .icon_tw{
     background-image: url(img/Iconos-Redes/twitter.png);
+}
+
+.contenido_2{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.contenido_2 img{
+    width: 30%;
+    border: 1px solid black;
+    border-radius: 50px;
 }
